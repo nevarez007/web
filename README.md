@@ -107,5 +107,3 @@ contacto.html
   </footer>
 </body>
 </html>
-
-css/estilos.css
