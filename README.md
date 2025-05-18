@@ -2,8 +2,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <title>Academia de Danza Estrella</title>
+  <meta charset="UTF-8"
   <link rel="stylesheet" href="css/estilos.css">
 </head>
 <body>
