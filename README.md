@@ -2,7 +2,6 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Contacto</title>
   <link rel="stylesheet" href="css/estilos.css">
 </head>
 <body>
@@ -33,7 +32,7 @@
   </main>
 
   <footer>
-    <p>&copy; 2025 Academia Estrella</p>
+     2025 Academia Estrella</p>
   </footer>
 </body>
 </html>
