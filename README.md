@@ -1,15 +1,13 @@
-clases.html
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Nuestras Clases</title>
+  <title>Contacto</title>
   <link rel="stylesheet" href="css/estilos.css">
 </head>
 <body>
   <header>
-    <h1>Nuestras Clases</h1>
+    <h1>Contáctanos</h1>
     <nav>
       <a href="index.html">Inicio</a>
       <a href="clases.html">Clases</a>
@@ -18,12 +16,20 @@ clases.html
   </header>
 
   <main>
-    <h2>Horarios y Precios</h2>
-    <table>
-      <tr><th>Día</th><th>Clase</th><th>Horario</th><th>Precio</th></tr>
-      <tr><td>Lunes</td><td>Ballet</td><td>4:00 PM</td><td>$300</td></tr>
-      <tr><td>Miércoles</td><td>Jazz</td><td>5:00 PM</td><td>$300</td></tr>
-    </table>
+    <h2>Formulario de inscripción</h2>
+    <form>
+      <label>Nombre: <input type="text" name="nombre"></label><br>
+      <label>Correo: <input type="email" name="correo"></label><br>
+      <label>Edad: <input type="number" name="edad"></label><br>
+      <label>Clase de interés:
+        <select>
+          <option>Ballet</option>
+          <option>Jazz</option>
+          <option>Hip-hop</option>
+        </select>
+      </label><br>
+      <input type="submit" value="Enviar">
+    </form>
   </main>
 
   <footer>
