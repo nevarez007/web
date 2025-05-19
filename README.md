@@ -23,7 +23,7 @@
   </main>
 
   <footer>
-    <p>&copy; 2025 Academia Estrella</p>
+     2025 Academia Estrella</p>
   </footer>
 </body>
 </html>
